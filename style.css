@@ -1,0 +1,27 @@
+span {
+  color: blue;
+}
+
+h2 {
+  color: chartreuse;
+}
+body {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+}
+h1 {
+  font-size: 3rem;
+}
+
+  #second_h2 {
+    color: #fa541c
+  }
+  .group1 {
+    color: #c4a59a;
+}
+
+.group2 {
+  color: cyan;
+}
